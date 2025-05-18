@@ -1,6 +1,6 @@
 Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization
 ======
-The PyTorch implementation of IJCAI 2025 paper: CASO: 
+The PyTorch implementation of IJCAI 2025 paper **CASO**: 
 
 "Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization"
 
